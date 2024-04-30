@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=Zoning
+comment1.params=geoJsonFile
+comment1.target=Zoning(java.nio.file.Path)
+comment2.params=
+comment2.target=java.lang.String\ getType()
+comment3.params=type
+comment3.target=void\ setType(java.lang.String)
+comment4.params=
+comment4.target=java.lang.String\ getName()
+comment5.params=name
+comment5.target=void\ setName(java.lang.String)
+comment6.params=id\ zone
+comment6.target=void\ addZone(java.lang.String,\ Shape)
+comment7.params=
+comment7.target=java.util.Map\ getZones()
+numComments=8

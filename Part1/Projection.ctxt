@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=Projection
+comment1.params=modelPoint\ viewer
+comment1.target=javafx.geometry.Point2D\ model2Screen(GisPoint,\ NetworkViewer)
+comment1.text=\n\ Project\ a\ point\ from\ the\ gis\ map\ to\ the\ pixels\ of\ the\ canvas\n\ @param\ model\n\ @param\ controller\ //\ this\ has\ the\ canvas\ scale\ and\ origin\n\ @return\ a\ 2D\ point\ on\ the\ canvas\ for\ the\ Gis\ point\n
+comment2.params=screenPoint\ viewer
+comment2.target=GisPoint\ screen2Model(javafx.geometry.Point2D,\ NetworkViewer)
+comment2.text=\n\ Project\ a\ point\ from\ the\ screen\ pixels\ to\ the\ Gis\ position\n\ @param\ screenPoint\ canvas\ x\ and\ y\n\ @param\ viewer\ contains\ the\ canvas,\ scale,\ and\ origin\n\ @return\ a\ GisPoint\ corresponding\ to\ the\ displayed\ point\n
+comment3.params=model\ mapCanvas\ scale\ ratioLatLon\ origin
+comment3.target=javafx.geometry.Point2D\ model2Screen(GisPoint,\ javafx.scene.canvas.Canvas,\ double,\ double,\ GisPoint)
+comment4.params=modelX\ mapCanvas\ scale\ ratioLatLon\ originX
+comment4.target=double\ model2ScreenX(double,\ javafx.scene.canvas.Canvas,\ double,\ double,\ double)
+comment5.params=modelY\ mapCanvas\ scale\ originY
+comment5.target=double\ model2ScreenY(double,\ javafx.scene.canvas.Canvas,\ double,\ double)
+comment6.params=screenPoint\ mapcanvas\ scale\ ratioLatLon\ origin
+comment6.target=GisPoint\ Screen2Model(javafx.geometry.Point2D,\ javafx.scene.canvas.Canvas,\ double,\ double,\ GisPoint)
+comment7.params=screenPoint\ mapcanvas\ scale\ ratioLatLon\ originX
+comment7.target=double\ getScreen2ModelX(javafx.geometry.Point2D,\ javafx.scene.canvas.Canvas,\ double,\ double,\ double)
+comment8.params=screenPoint\ mapCanvas\ scale\ originY
+comment8.target=double\ getScreen2ModelY(javafx.geometry.Point2D,\ javafx.scene.canvas.Canvas,\ double,\ double)
+numComments=9

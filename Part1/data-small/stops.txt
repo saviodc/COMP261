@@ -1,0 +1,295 @@
+stop_id	stop_code	stop_name	stop_desc	stop_lat	stop_lon	zone_id	location_type	parent_station
+3000	3000	Johnsonville - Stop A	Johnsonville-A	-41.22279	174.80508	3	0	
+3081	3081	Johnsonville - Stop B	Johnsonville-B	-41.22289178	174.80526	3	0	
+3252	3252	Johnsonville Road (near 147)	JohnsonvilleRd (147)	-41.22671418	174.8074428	3	0	
+3254	3254	Centennial Highway at Glover Street	CentennialHwy at Glover	-41.24256197	174.8134883	3	0	
+3256	3256	Ngauranga - Hutt Road (next to motorway)	Ngauranga-HuttRd (motorway)	-41.24820366	174.8123829	3	0	
+3258	3258	Hutt Road opposite Rangiora Avenue	HuttRd opposite Rangiora	-41.25589184	174.7963112	2/3	0	
+3260	3260	Hutt Road at Rangiora Avenue	HuttRd at Rangiora	-41.25552425	174.7967786	2/3	0	
+3262	3262	Ngauranga - Hutt Road (opposite motorway)	Ngauranga-HuttRd  (opp motorway)	-41.24752696	174.8127902	3	0	
+3264	3264	Ngauranga Commercial Centre	NgaurangaCommercialCtr	-41.24499287	174.8135555	3	0	
+3266	3266	Ngauranga Gorge (Kiwi Point)	NgaurangaGorge (KiwiPt)	-41.23835001	174.8056109	3	0	
+3268	3268	Johnsonville Road at Disraeli Street	JohnsonvilleRd at Disraeli	-41.22545745	174.8071696	3	0	
+3809	3809	Burma Road near Haumia Street	BurmaRd nr Haumia	-41.229609	174.799963	3	0	
+3810	3810	Malvina Major Retirement Village	MMRetirementVlg	-41.2337925	174.798331	3	0	
+3825	3825	Burma Road near Haumia Street (Raroa Intermediate)	RaroaInterSch	-41.2297734	174.799941	3	0	
+4113	4113	Murphy Street - Wellington Girls' College	MurphySt-WgtnGirls'Coll	-41.27533423	174.7797709	1	0	
+4114	4114	Murphy Street - Motorway	MurphySt-Motorway	-41.27238623	174.7779328	1	0	
+4115	4115	Park Street at Burnell Avenue	ParkSt at Burnell	-41.27132139	174.7771548	1	0	
+4116	4116	Grant Road (opposite 25)	GrantRd (opp 25)	-41.2686	174.77895	1/2	0	
+4117	4117	Grosvenor Terrace opposite Orchard Street	GrosvenorTce opp Orchard	-41.26722742	174.7797894	2	0	
+4118	4118	Grosvenor Terrace (near 22)	GrosvenorTce (22)	-41.26596307	174.7799442	2	0	
+4119	4119	Barnard Street at Lennel Road	BarnardSt at Lennel	-41.26513078	174.7814038	2	0	
+4120	4120	Lennel Road at Sefton Street	LennelRd at Sefton	-41.26409097	174.7787493	2	0	
+4121	4121	Lennel Road at Moorhouse Street	LennelRd at Moorhouse	-41.26258434	174.7771565	2	0	
+4122	4122	Wadestown Road opposite Pitt Street	WadestownRd opp Pitt	-41.2617906	174.7760607	2	0	
+4123	4123	Wadestown Shops (near 98)	WadestownShops (98)	-41.26181268	174.7746288	2	0	
+4125	4125	Wadestown Road opposite Lytton Street	WadestownRd opp Lytton	-41.2615297	174.7696077	2	0	
+4126	4126	Wilton Road at Blackbridge Road	WiltonRd at Blackbridge	-41.2616407	174.7669997	2	0	
+4127	4127	Wilton Road opposite Purakau Avenue	WiltonRd opp Purakau	-41.26213039	174.7656847	2	0	
+4128	4128	Izard Park - Wilton Road	IzardPk-WiltonRd	-41.26440689	174.7640748	2	0	
+4129	4129	Wilton Road (near 74)	WiltonRd (74)	-41.26622588	174.7629299	2	0	
+4130	4130	Wilton Road at Warwick Street	WiltonRd at Warwick	-41.26797856	174.7602313	2	0	
+4131	4131	Warwick Street at Gloucester Street	WarwickSt at Gloucester	-41.26866134	174.7595191	2	0	
+4132	4132	Gloucester Street (near 14)	GloucesterSt (14)	-41.26917456	174.7585921	2	0	
+4133	4133	Gloucester Street at Worcester Street (near 22)	GloucesterSt at Worcester (22)	-41.26992401	174.756702	2	0	
+4134	4134	Otari School - Otari-Wilton's Bush	OtariSch-Otari-WiltonsBush	-41.26820968	174.7568948	2	0	
+4135	4135	Wilton Park - Wilton Road	WiltonPk-WiltonRd	-41.26967939	174.7550241	2	0	
+4136	4136	Wilton - Surrey Street	Wilton-SurreySt	-41.27139189	174.7549506	2	0	
+4137	4137	Churchill Drive near Bowen Hospital	ChurchillDr nr Hospital	-41.25964154	174.7662305	3	0	
+4138	4138	Churchill Drive near Crofton Downs Shops	ChurchillDr nr CroftonDnsShops	-41.25696771	174.7654005	3	0	
+4139	4139	Cardinal McKeefry School - Wilton Road	CardinalMcKeefrySch-WiltonRd	-41.27542347	174.756372	2	0	
+4311	4311	Bowen Street (near 38)	BowenSt (38)	-41.27862	174.7749	1	0	
+4312	4312	Tinakori Road at St Mary Street	TinakoriRd at StMary	-41.27929047	174.7685352	1	0	
+4313	4313	Botanic Garden - Glenmore Street (opposite)	BotanicGdn-GlenmoreSt (opp)	-41.28057662	174.7668983	1/2	0	
+4314	4314	Glenmore Street at Garden Road	GlenmoreSt at Garden	-41.28248936	174.7632456	2	0	
+4315	4315	Glenmore Street at Orangi Kaupapa Road	GlenmoreSt at OrangiKaupapa	-41.28344091	174.7621992	2	0	
+4316	4316	Glenmore Street at The Rigi	GlenmoreSt at Rigi	-41.28575022	174.7584401	2	0	
+4317	4317	Glenmore Street at Kelburn Viaduct	GlenmoreSt at Viaduct	-41.28783562	174.7575408	2	0	
+4319	4319	Karori Tunnel - Stop A	KaroriTnl-A	-41.28703441	174.7569222	2	0	
+4320	4320	Zealandia - Chaytor Street (at Tunnel)	Zealandia-ChaytorSt (Tnl)	-41.28710344	174.7547854	2/3	0	
+4321	4321	Chaytor Street at Curtis Street	ChaytorSt at Curtis	-41.28452301	174.7532694	3	0	
+4322	4322	Chaytor Street opposite Joll Street	ChaytorSt opp Joll	-41.28253896	174.7524773	3	0	
+4323	4323	Karori Road at Standen Street	KaroriRd at Standen	-41.28118846	174.7504369	3	0	
+4324	4324	Marsden Village - Karori Road	MarsdenVlg-KaroriRd	-41.28229753	174.7460675	3	0	
+4325	4325	Karori Normal School - Karori Road (opposite)	KaroriNmlSch-KaroriRd (opp)	-41.28361466	174.7411492	3	0	
+4326	4326	Karori Road at Reading Street	KaroriRd at Reading	-41.28392101	174.7400474	3	0	
+4327	4327	Karori Mall - Karori Road	KaroriMall-KaroriRd	-41.28443602	174.7382243	3	0	
+4328	4328	Karori Road opposite St Teresa's School	KaroriRd opp StTeresa's	-41.28536061	174.7350564	3	0	
+4329	4329	Karori Road opposite Richmond Avenue	KaroriRd opp Richmond	-41.28656133	174.7303544	3	0	
+4330	4330	Karori Road at Tringham Street	KaroriRd at Tringham	-41.28674901	174.7288185	3	0	
+4331	4331	Karori Park Pavilion - Karori Road	KaroriPkPavilion-KaroriRd	-41.28700485	174.7252091	3	0	
+4332	4332	Karori - Allington Road	Karori-AllingtonRd	-41.28897687	174.7233106	3	0	
+4333	4333	Marsden School - Vera Street (school stop)	MarsdenSch-VeraSt (sch)	-41.285701	174.745962	3	0	
+4381	4381	Birdwood Street at Braithwaite Street	BirdwoodSt at Braithwaite	-41.28379968	174.7506154	3	0	
+4382	4382	Messines Road at Braithwaite Street (near 2)	MessinesRd at Braithwaite (2)	-41.28436357	174.7485907	3	0	
+4383	4383	Messines Road (near 22)	MessinesRd (22)	-41.28544373	174.7489983	3	0	
+4384	4384	Plymouth Street at Messines Road	PlymouthSt at Messines	-41.28659787	174.7501038	3	0	
+4385	4385	Duthie Street at Gipps Street	DuthieSt at Gipps	-41.28753813	174.7475018	3	0	
+4386	4386	Duthie Street at Hurman Street	DuthieSt at Hurman	-41.2891624	174.7473063	3	0	
+4387	4387	Croydon Street (near 2)	CroydonSt (2)	-41.2905346	174.7468564	3	0	
+4388	4388	Croydon Street opposite Versailles Street	CroydonSt opp Versailles	-41.29177888	174.7470178	3	0	
+4389	4389	Croydon Street (near 64)	CroydonSt (64)	-41.29395604	174.7460011	3	0	
+4390	4390	Campbell Street (near 171)	CampbellSt (171)	-41.29388411	174.7448049	3	0	
+4391	4391	Campbell Street (near 133)	CampbellSt (133)	-41.29165673	174.743193	3	0	
+4392	4392	Verviers Street at Kano Street	VerviersSt at Kano	-41.28997496	174.7412375	3	0	
+4393	4393	Beauchamp Street at Verviers Street	BeauchampSt at Verviers	-41.29026673	174.7398122	3	0	
+4394	4394	Beauchamp Street at Henderson Street	BeauchampSt at Henderson	-41.28919352	174.739306	3	0	
+4395	4395	Beauchamp Street opposite Dasent Street	BeauchampSt opp Dasent	-41.28767372	174.7385491	3	0	
+4396	4396	Karori Mall - Beauchamp Street (Recreation Centre)	KaroriMall-BeauchampSt (RecCtr)	-41.28530028	174.7372434	3	0	
+4416	4416	Cockayne Road at Lucknow Terrace	CockayneRd at Lucknow	-41.24974253	174.7869364	3	0	
+4417	4417	Clutha Avenue at Cockayne Road	CluthaAve at Cockayne	-41.24855457	174.787398	3	0	
+4418	4418	Clutha Avenue at Nicholson Road (near 3)	CluthaAve at Nicholson (3)	-41.24807289	174.7894137	3	0	
+4419	4419	Khandallah Village - Stop A	KhandallahVlg-A	-41.24732664	174.7910641	3	0	
+4420	4420	Everest Street opposite Ganges Road	EverestSt opp Ganges	-41.24842286	174.7935187	3	0	
+4421	4421	Ranui Crescent at Izard Road	RanuiCres at Izard	-41.24752611	174.7956047	3	0	
+4422	4422	Ranui Crescent (near 73)	RanuiCres (73)	-41.24705733	174.7967853	3	0	
+4449	4449	Ngaio Town Hall - Ottawa Road (opposite)	NgaioTownHall-OttawaRd (opp)	-41.25011915	174.7735962	3	0	
+4450	4450	Ottawa Road (near 54)	OttawaRd (54)	-41.24839194	174.7746236	3	0	
+4451	4451	Ngaio School - Colway Street	NgaioSch-ColwaySt	-41.24783517	174.7756826	3	0	
+4452	4452	Colway Street (near 44)	ColwaySt (44)	-41.24919411	174.7785393	3	0	
+4453	4453	Colway Street (near 62)	ColwaySt (62)	-41.25011528	174.7796829	3	0	
+4454	4454	Bombay Street opposite Tarikaka Street	BombaySt opp Tarikaka	-41.24955108	174.7812191	3	0	
+4455	4455	Bombay Street (near 7)	BombaySt (7)	-41.24935254	174.7824071	3	0	
+4456	4456	Mysore Street (near 14)	MysoreSt (14)	-41.25042003	174.7832716	3	0	
+4457	4457	Mysore Street (opposite 138)	MysoreSt at Cockayne	-41.25165277	174.7850954	3	0	
+4460	4460	Station Road (near 8)	StationRd (8)	-41.24224942	174.7931928	3	0	
+4461	4461	Cashmere Avenue (near 68)	CashmereAve (68)	-41.24545719	174.7954287	3	0	
+4469	4469	Burma Road at John Sims Drive	BurmaRd at JohnSims	-41.23622901	174.7980398	3	0	
+4470	4470	Burma Road opposite Malvina Major	BurmaRd opp MalvinaMajor	-41.23303	174.7981	3	0	
+4911	4911	The Terrace at Bolton Street (near 22)	Terrace at Bolton (22)	-41.2796359	174.7753505	1	0	
+4912	4912	The Terrace at Aurora Terrace (near 70)	Terrace at Aurora (70)	-41.28135208	174.7750388	1	0	
+4913	4913	The Terrace at Dalmuir Lane (near 130)	Terrace at Dalmuir (130)	-41.28351574	174.7744747	1	0	
+4914	4914	The Terrace (near 230)	Terrace (230)	-41.28796876	174.7723522	1	0	
+4915	4915	Wellington University - Stop A	WgtnUni-A	-41.28866877	174.7678332	1/2	0	
+4916	4916	Upland Road opposite Glasgow Street	UplandRd opp Glasgow	-41.28743944	174.7657699	2	0	
+4917	4917	Kelburn Village - Upland Road (near 94)	KelburnVlg-UplandRd (94)	-41.28902492	174.7622301	2	0	
+4918	4918	Kelburn Normal School - Upland Road	KelburnNmlSch-UplandRd	-41.28702265	174.7608469	2	0	
+4921	4921	Northland Tunnel (near Putnam Street)	NorthlandTnl (nr Putnam)	-41.28517099	174.755081	2	0	
+4922	4922	Northland Village - Northland Road	Northland Vlg-NorthlandRd	-41.28352121	174.7569474	2	0	
+4923	4923	Northland Road (near 88)	NorthlandRd (88)	-41.2816895	174.7589281	2	0	
+4924	4924	Northland Road at Military Road	NorthlandRd at Military	-41.2794222	174.7599418	2	0	
+4925	4925	Northland Road at Seaview Terrace	NorthlandRd at Seaview	-41.27948849	174.7614959	2	0	
+4926	4926	Pembroke Road (near 24)	PembrokeRd (24)	-41.27769144	174.7612087	2	0	
+4927	4927	Pembroke Road (near 72)	PembrokeRd (72)	-41.27636646	174.7595015	2	0	
+4928	4928	Pembroke Road at Huntingdon Street	PembrokeRd at Huntingdon	-41.27394318	174.7585879	2	0	
+4929	4929	Pembroke Road opposite Hereford Street	PembrokeRd opp Hereford	-41.27149907	174.759729	2	0	
+4930	4930	Mairangi Road at Monmouth Way	MairangiRd at Monmouth	-41.270825	174.7625761	2	0	
+4931	4931	Mairangi Road (near 159)	MairangiRd (159)	-41.26855217	174.7639476	2	0	
+4932	4932	Mairangi Road opposite Warwick Street	MairangiRd opp Warwick	-41.26744064	174.7659471	2	0	
+4934	4934	Mairangi Road at Rutland Way (near 107)	MairangiRd at Rutland (107)	-41.26569016	174.7667921	2	0	
+4935	4935	Norwich Street at Mairangi Road	NorwichSt at Mairangi	-41.26437028	174.7664613	2	0	
+4936	4936	Mairangi - Norwich Street	Mairangi-NorwichSt	-41.26503531	174.764211	2	0	
+5000	5000	Courtenay Place - Stop A	CourtenayPl-A	-41.29379439	174.7823273	1	0	
+5002	5002	Courtenay Place at St James Theatre	CourtenayPl at StJamesThtr	-41.29316472	174.7800168	1	0	
+5006	5006	Manners Street at Willis Street	MannersSt at Willis	-41.28955075	174.7749028	1	0	
+5008	5008	Willis Street at Grand Arcade	WillisSt at GrandArc	-41.28674127	174.7760208	1	0	
+5010	5010	Lambton Quay at Cable Car Lane	LambtonQy at CableCar	-41.28386937	174.7753459	1	0	
+5012	5012	Lambton Central - Stop A	LambtonCtrl-A	-41.28260336	174.7756698	1	0	
+5014	5014	Lambton Quay North - Stop B	LambtonQyN-B	-41.27987847	174.7763096	1	0	
+5015	5015	Lambton Quay North - Stop A	LambtonQyN-A	-41.27961564	174.7766634	1	0	
+5016	5016	Wellington Station - Stop D	WgtnStn-D	-41.27841016	174.7788993	1	0	
+5018	5018	Thorndon Quay - Capital Gateway (opposite)	ThorndonQy-CapitalGateway (opp)	-41.27593123	174.7819363	1	0	
+5020	5020	Thorndon Quay at Davis Street (near 125)	ThorndonQy at Davis (125)	-41.27419839	174.7833218	1	0	
+5022	5022	Thorndon Quay (near 199)	ThorndonQy (199)	-41.27160957	174.7818187	1	0	
+5024	5024	Thorndon Quay at Motorway (near 243 - Northbound)	ThorndonQy at Motorway (243 Nthbnd)	-41.26971232	174.7810337	1	0	
+5025	5025	Hutt Road at Sar Street	HuttRd at Sar	-41.2671097	174.7815769	1	0	
+5026	5026	Hutt Road at Aotea Quay	HuttRd at Aotea	-41.2637431	174.7851097	1/2	0	
+5028	5028	Kaiwharawhara - Fore Street	Kaiwharawhara-ForeSt	-41.25940794	174.79032	2	0	
+5111	5111	Molesworth Street at Parliament	MolesworthSt at Parliament	-41.27851311	174.7780663	1	0	
+5112	5112	Molesworth Street - Cathedral	MolesworthSt-Cathedral	-41.27581576	174.7777543	1	0	
+5113	5113	Molesworth Street (near 95)	MolesworthSt (95)	-41.27428332	174.7778321	1	0	
+5114	5114	Molesworth Street - Motorway	MolesworthSt-Motorway	-41.27266086	174.7779074	1	0	
+5115	5115	Park Street (near 7)	ParkSt (7)	-41.27150146	174.7771596	1	0	
+5116	5116	Grant Road opposite Newman Terrace	GrantRd opp Newman	-41.26895837	174.7785233	1/2	0	
+5117	5117	Grosvenor Terrace at Orchard Street steps	GrosvenorTce at OrchardSt steps	-41.26695547	174.7799014	2	0	
+5118	5118	Grosvenor Terrace at Lower Watt Street	GrosvenorTce at LowerWatt	-41.26594876	174.7798351	2	0	
+5119	5119	Lennel Road at Lower Watt Street	LennelRd at LowerWatt	-41.264519	174.7801934	2	0	
+5120	5120	Lennel Road at Sefton Street (near 20)	LennelRd at Sefton (20)	-41.26392196	174.7780284	2	0	
+5121	5121	Wadestown Library - Lennel Road	WadestownLib-LennelRd	-41.26250167	174.7766768	2	0	
+5123	5123	Wadestown Road at Pitt Street	WadestownRd at Pitt	-41.26171345	174.775223	2	0	
+5124	5124	Wadestown Shops (near 109)	WadestownShops (109)	-41.26191375	174.7739154	2	0	
+5125	5125	Wadestown Road at Lytton Street	WadestownRd at Lytton	-41.26171527	174.7692546	2	0	
+5126	5126	Wilton Road opposite Blackbridge Road	WiltonRd opp Blackbridge	-41.26165091	174.7675817	2	0	
+5127	5127	Wadestown School - Wilton Road	WadestownSch-WiltonRd	-41.26249236	174.765575	2	0	
+5128	5128	Izard Park - Wilton Road (near 41)	IzardPk-WiltonRd (41)	-41.26449927	174.7643263	2	0	
+5129	5129	Wilton Road (near 79)	WiltonRd (79)	-41.26604398	174.7630444	2	0	
+5130	5130	Warwick Street at Wilton Road	WarwickSt at Wilton	-41.268302	174.75963	2	0	
+5131	5131	Warwick Street at Gloucester Street (near 4)	WarwickSt at Gloucester (4)	-41.26879569	174.7597397	2	0	
+5132	5132	Gloucester Street (near 5)	GloucesterSt (5)	-41.26917274	174.7587114	2	0	
+5133	5133	Gloucester Street at Worcester Street (near 21)	GloucesterSt at Worcester (21)	-41.27009861	174.7570649	2	0	
+5134	5134	Gloucester Street at Wilton Road	GloucesterSt at Wilton	-41.26865804	174.7570263	2	0	
+5135	5135	Wilton Park - Wilton Road (near 185)	WiltonPk-WiltonRd (185)	-41.26970901	174.7552706	2	0	
+5136	5136	Churchill Drive at Wilton Bush Road	ChurchillDr at WiltonBush	-41.26347053	174.7632011	2/3	0	
+5138	5138	Churchill Drive near Chartwell Drive	ChurchillDr nr Chartwell	-41.25745831	174.7652888	3	0	
+5139	5139	Cardinal McKeefry School - Wilton Road (opposite)	CardinalMcKeefrySch-WiltonRd (opp)	-41.27524886	174.7560091	2	0	
+5312	5312	Tinakori Road opposite St Mary Street	TinakoriRd opp StMary	-41.27928496	174.7688933	1	0	
+5313	5313	Glenmore Street at Botanic Garden	GlenmoreSt at BotanicGdn	-41.28057112	174.7672564	1/2	0	
+5315	5315	Glenmore Street (opposite 100)	GlenmoreSt (opp 100)	-41.28353095	174.7622016	2	0	
+5316	5316	Glenmore Street (near 147)	GlenmoreSt (147)	-41.2855592	174.7591515	2	0	
+5317	5317	Glenmore Street (near 177)	GlenmoreSt (177)	-41.28783015	174.7578989	2	0	
+5318	5318	Glenmore Street (near 205)	GlenmoreSt (205)	-41.28847498	174.7569609	2	0	
+5319	5319	Karori Tunnel - Stop B	KaroriTnl-B	-41.2873982	174.7566931	2	0	
+5320	5320	Zealandia - Chaytor Street (Appleton Park)	Zealandia-ChaytorSt (AppletonPk)	-41.28643876	174.7546373	2/3	0	
+5321	5321	Chaytor Street opposite Curtis Street	ChaytorSt opp Curtis	-41.28455607	174.7529217	3	0	
+5322	5322	Chaytor Street at Joll Street	ChaytorSt at Joll	-41.28269364	174.7521488	3	0	
+5323	5323	Karori Road (near 93)	KaroriRd (93)	-41.28146038	174.7503247	3	0	
+5324	5324	Karori Road at Lancaster Street	KaroriRd at Lancaster	-41.28224548	174.7463543	3	0	
+5325	5325	Karori Normal School - Karori Road	KaroriNmlSch-KaroriRd	-41.28376246	174.7410723	3	0	
+5326	5326	Karori Road (near 223)	KaroriRd (223)	-41.28415914	174.7395319	3	0	
+5327	5327	Karori Mall - Karori Road (opposite)	KaroriMall-KaroriRd (opp)	-41.28490242	174.737162	3	0	
+5328	5328	Karori Road at St Teresa's School	KaroriRd at StTeresa's	-41.28556869	174.7347914	3	0	
+5329	5329	Karori Road at Burrows Avenue	KaroriRd at Burrows	-41.28651938	174.7314729	3	0	
+5330	5330	Karori Road opposite Tringham Street	KaroriRd opp Tringham	-41.28687483	174.7288282	3	0	
+5331	5331	Karori Road opposite Karori Park	KaroriRd opp KaroriPk	-41.28718564	174.7251662	3	0	
+5332	5332	Karori - Karori Road	Karori-KaroriRd	-41.2883212	174.7239003	3	0	
+5380	5380	Zealandia - Birdwood Street	Zealandia-BirdwoodSt	-41.28671615	174.7541671	2/3	0	
+5381	5381	Birdwood Street opposite Braithwaite Street	BirdwoodSt opp Braithwaite	-41.28385942	174.7505817	3	0	
+5382	5382	Messines Road at Braithwaite Street (near 1)	MessinesRd at Braithwaite (1)	-41.28436693	174.7487307	3	0	
+5383	5383	Messines Road (near 15)	MessinesRd (15)	-41.28535188	174.7491152	3	0	
+5384	5384	Plymouth Street (near 3)	PlymouthSt (3)	-41.28687342	174.7497529	3	0	
+5385	5385	Duthie Street at Plymouth Street	DuthieSt at Plymouth	-41.28753632	174.7476211	3	0	
+5386	5386	Duthie Street at Hurman Street (near 71)	DuthieSt at Hurman (71)	-41.28933885	174.7475498	3	0	
+5388	5388	Croydon Street at Versailles Street	CroydonSt at Versailles	-41.29186529	174.747259	3	0	
+5389	5389	Croydon Street (near 49)	CroydonSt (49)	-41.29422796	174.7458889	3	0	
+5390	5390	Campbell Street (near 136)	CampbellSt (136)	-41.29334933	174.7444323	3	0	
+5391	5391	Campbell Street (near 106)	CampbellSt (106)	-41.29157574	174.7425937	3	0	
+5392	5392	Verviers Street at Kano Street (near 39)	VerviersSt at Kano (39)	-41.29015684	174.7411229	3	0	
+5393	5393	Beauchamp Street (near 76)	BeauchampSt (76)	-41.29027034	174.7395734	3	0	
+5394	5394	Beauchamp Street (near 60)	BeauchampSt (60)	-41.28910709	174.7390648	3	0	
+5395	5395	Beauchamp Street at Dasent Street	BeauchampSt at Dasent	-41.2878556	174.7384345	3	0	
+5416	5416	Cockayne Road at Nairnville Park	CockayneRd at NairnvillePk	-41.24982617	174.7867166	3	0	
+5417	5417	Clutha Avenue (near 40)	CluthaAve (40)	-41.24846454	174.7873955	3	0	
+5418	5418	Clutha Avenue at Nicholson Road (near 6)	CluthaAve at Nicholson (6)	-41.24780093	174.7895256	3	0	
+5419	5419	Khandallah Village - Stop B	KhandallahVlg-B	-41.24714471	174.7911785	3	0	
+5420	5420	Everest Street at Ganges Road	EverestSt at Ganges	-41.24828172	174.7933578	3	0	
+5421	5421	Everest Street at Izard Road	EverestSt at Izard	-41.24744538	174.7950057	3	0	
+5422	5422	Ranui Crescent at Cashmere Avenue	RanuiCres at Cashmere	-41.24696916	174.7966635	3	0	
+5449	5449	Ottawa Road at Ngaio Town Hall	OttawaRd at NgaioTownHall	-41.24999869	174.7735785	3	0	
+5450	5450	Ottawa Road (near 57)	OttawaRd (57)	-41.24812765	174.7745487	3	0	
+5451	5451	Colway Street opposite Ngaio School	ColwaySt opp NgaioSch	-41.24783149	174.7759212	3	0	
+5452	5452	Colway Street (near 43)	ColwaySt (43)	-41.24905145	174.7785799	3	0	
+5453	5453	Colway Street at Bombay Street	ColwaySt at Bombay (63)	-41.24993521	174.779678	3	0	
+5454	5454	Bombay Street at Tarikaka Street	BombaySt at Tarikaka	-41.24945	174.7811	3	0	
+5455	5455	Bombay Street at Swansea Street	BombaySt at Swansea	-41.24924869	174.7824201	3	0	
+5456	5456	Mysore Street (near 13)	MysoreSt (13)	-41.25041633	174.7835102	3	0	
+5457	5457	Mysore Street at Cockayne Road	MysoreSt at Cockayne	-41.25165092	174.7852147	3	0	
+5460	5460	Station Road (near 7)	StationRd (7)	-41.24215939	174.7931904	3	0	
+5461	5461	Cashmere Avenue (near 57)	CashmereAve (57)	-41.24519081	174.7951827	3	0	
+5469	5469	Burma Road at Fraser Avenue	BurmaRd at Fraser	-41.23676735	174.7981739	3	0	
+5486	5486	Hutt Road opposite School Road	HuttRd opp School	-41.261214	174.788817	2	0	
+5488	5488	Hutt Road at Aotea Quay (rail side)	HuttRd at Aotea (rail side)	-41.26408494	174.7849566	1/2	0	
+5490	5490	Thorndon Quay opposite Tinakori Road	ThorndonQy opp Tinakori	-41.26816	174.78122	1	0	
+5492	5492	Thorndon Quay at Motorway (near 248 - Southbound)	ThorndonQy at Motorway (248 Sthbnd)	-41.2699229	174.7811739	1	0	
+5494	5494	Thorndon Quay (near 230)	ThorndonQy (230)	-41.27142766	174.7819331	1	0	
+5496	5496	Thorndon Quay at Davis Street (opposite 125)	ThorndonQy at Davis (opp 125)	-41.27428288	174.7836823	1	0	
+5498	5498	Thorndon Quay - Capital Gateway	ThorndonQy-CapitalGateway	-41.27629691	174.781588	1	0	
+5500	5500	Wellington Station - Stop A	WgtnStn-A	-41.27858839	174.7790235	1	0	
+5502	5502	Lambton Quay North - Stop D	LambtonQyN-D	-41.27990181	174.7765372	1	0	
+5506	5506	Lambton Central - Stop B	LambtonCtrl-B	-41.28296166	174.7757989	1	0	
+5508	5508	Lambton Quay at Hunter Street	LambtonQy at Hunter	-41.28493518	174.7757423	1	0	
+5510	5510	Willis Street at Willbank Court	WillisSt at WillbankCt	-41.28801096	174.7754582	1	0	
+5513	5513	Manners Street at Cuba Street - Stop B	MannersSt at Cuba-B	-41.29096552	174.7766131	1	0	
+5514	5514	Courtenay Place at Courtenay Central	CourtenayPl at CourtenayCtrl	-41.29289647	174.77989	1	0	
+5515	5515	Manners Street at Cuba Street - Stop A	MannersSt at Cuba-A	-41.29140832	174.7771028	1	0	
+5516	5516	Courtenay Place - Stop C	CourtenayPl-C	-41.29375246	174.7827796	1	0	
+5519	5519	Featherston Street at Waring Taylor Street	FeatherstonSt at WaringTaylorSt	-41.28224	174.77768	1	0	
+5520	5520	Lambton Central (Brandon Street) - Stop C	LambtonCtrl (BrandonSt)-C	-41.28325506	174.7758958	1	0	
+5911	5911	The Terrace at Bolton Street (near 25)	Terrace at Bolton (25)	-41.27981413	174.7754748	1	0	
+5912	5912	The Terrace at Aurora Terrace (near 85)	Terrace at Aurora (85)	-41.28144027	174.7751606	1	0	
+5913	5913	The Terrace at Dalmuir Lane	Terrace at Dalmuir	-41.28379349	174.7746367	1	0	
+5914	5914	Salamanca Road at The Terrace	SalamancaRd at Terrace	-41.28879378	174.7714192	1	0	
+5915	5915	Wellington University - Stop B	WgtnUni-B	-41.28921081	174.7677284	1/2	0	
+5916	5916	Upland Road (near 39)	UplandRd (39)	-41.28770954	174.7657772	2	0	
+5917	5917	Kelburn Village - Upland Road (St Michael's)	KelburnVlg-UplandRd (StMichael's)	-41.28928589	174.7628342	2	0	
+5918	5918	Kelburn Normal School - Upland Rd (opposite)	KelburnNmlSch-UplandRd (opp)	-41.28724432	174.7608686	2	0	
+5920	5920	Zealandia - Northland Tunnel Road	Zealandia-NthlandTnlRd	-41.2865265	174.7548218	2/3	0	
+5921	5921	Northland Tunnel (opposite Putnam Street)	NorthlandTnl (opp Putnam)	-41.28508277	174.7549592	2	0	
+5922	5922	Northland Village - Northland Road	NorthlandVlg-NorthlandRd	-41.28331336	174.7572177	2	0	
+5923	5923	Northland Road (near 87)	NorthlandRd (87)	-41.28150761	174.7590426	2	0	
+5924	5924	Northland Road at Kaihuia Street	NorthlandRd at Kaihuia	-41.27933399	174.7598201	2	0	
+5925	5925	Northland Road at Pembroke Road	NorthlandRd at Pembroke	-41.27939846	174.7614934	2	0	
+5926	5926	Pembroke Road (near 19)	PembrokeRd (19)	-41.27769874	174.7607313	2	0	
+5927	5927	Pembroke Road at Cheshire Street	PembrokeRd at Cheshire	-41.27619004	174.759258	2	0	
+5928	5928	Pembroke Road at Huntingdon Street (near 117)	PembrokeRd at Huntingdon (117)	-41.27412835	174.7586057	2	0	
+5929	5929	Pembroke Road at Hereford Street	PembrokeRd at Hereford	-41.27150272	174.7594903	2	0	
+5930	5930	Pembroke Road (near 203)	PembrokeRd (203)	-41.27064127	174.76281	2	0	
+5931	5931	Mairangi Road (near 217)	MairangiRd (217)	-41.26906555	174.7635728	2	0	
+5932	5932	Mairangi Road opposite Denbigh Way	MairangiRd opp Denbigh	-41.26772722	174.7648804	2	0	
+5933	5933	Mairangi Road at Dorset Way	MairangiRd at Dorset	-41.26698497	174.766293	2	0	
+5934	5934	Mairangi Road at Rutland Way (near 92)	MairangiRd at Rutland (92)	-41.26616183	174.7671064	2	0	
+5935	5935	Mairangi Road at Norwich Street	MairangiRd at Norwich	-41.26464222	174.7663492	2	0	
+5936	5936	Mairangi - Norwich Street (near 53)	Mairangi-NorwichSt (53)	-41.2651527	174.7640433	2	0	
+6001	6001	Wellington Station - Stop C	WgtnStn-C	-41.27837975	174.779436	1	0	
+6906	6906	The Terrace at Salamanca Road	Terrace at SalamancaRd	-41.2892366	174.7719088	1	0	
+6908	6908	Ghuznee Street at Victoria Street	GhuzneeSt at Victoria	-41.292494	174.773479	1	0	
+6909	6909	Ghuznee Street at Cuba Street (opposite)	GhuzneeSt at Cuba (opp)	-41.29340013	174.7764403	1	0	
+6910	6910	Taranaki Street at Courtenay Place	TaranakiSt at Courtenay	-41.29300496	174.7786987	1	0	
+6911	6911	Taranaki Street at Frederick Street	TaranakiSt at Frederick	-41.29582184	174.7771032	1	0	
+6913	6913	Taranaki Street (near 217)	TaranakiSt (217)	-41.29900253	174.7752786	1	0	
+6914	6914	Massey University - Wallace Street	MasseyUni-WallaceSt	-41.3022585	174.7744113	1/2	0	
+7907	7907	The Terrace opposite MacDonald Crescent	Terrace opp MacDonaldCres	-41.2909638	174.7708808	1	0	
+7908	7908	Ghuznee Street at Willis Street	GhuzneeSt at Willis	-41.2924613	174.7730709	1	0	
+7909	7909	Ghuznee Street at Cuba Street	GhuzneeSt at Cuba	-41.2935802	174.7764452	1	0	
+7910	7910	Taranaki Street at Courtenay Place (near 72)	TaranakiSt at Courtenay (72)	-41.29337248	174.778231	1	0	
+7911	7911	Taranaki Street at Vivian Street	TaranakiSt at Vivian	-41.29518976	174.7772055	1	0	
+7912	7912	Taranaki Street at Abel Smith Street	TaranakiSt at AbelSmth	-41.29718895	174.7760654	1	0	
+7913	7913	Taranaki Street (near 274)	TaranakiSt (274)	-41.29976519	174.7747802	1	0	
+7914	7914	Massey University - Wallace Street (opposite)	MasseyUni-WallaceSt (opp)	-41.30190388	174.7740434	1/2	0	
+9997	9997	Queens Wharf	QueensWhrf	-41.28340147	174.7791615	1	0	
+9998	9998	Matiu/Somes Island Wharf	Matui/SomesIsWhrf	-41.25555681	174.8671892	4	0	
+AWAR	AWAR	Awarua Street Station	AwaruaSt Stn	-41.24650334	174.7742774	3	0	
+BOXH	BOXH	Box Hill Station	BoxHillStn	-41.24601334	174.7887566	3	0	
+CLIF	CLIF	Clifton - Cable Car Station	Clifton-CableCarStn	-41.28451384	174.7730767	1	0	
+CROF	CROF	Crofton Downs Station	CroftonDownsStn	-41.25504083	174.7664988	3	0	
+JOHN	JOHN	Johnsonville Station	JohnsonvilleStn	-41.22334496	174.8047433	3	0	
+KELB	KELB	Kelburn - Cable Car Station	Kelburn-CableCarStn	-41.28536474	174.7676499	1/2	0	
+KHAN	KHAN	Khandallah Station	KhandallahStn	-41.24267127	174.7934371	3	1	
+LAMB	LAMB	Lambton Quay - Cable Car Station	LambtonQy-CableCarStn	-41.2842116	174.7750914	1	0	
+NGAI	NGAI	Ngaio Station	NgaioStn	-41.25097096	174.7718585	3	1	
+NGAU	NGAU	Ngauranga Station	NgaurangaStn	-41.249038	174.813013	3	0	
+RARO	RARO	Raroa Station	RaroaStn	-41.23225739	174.8017479	3	0	
+SALA	SALA	Salamanca - Cable Car Station	Salamanca-CableCarStn	-41.28505357	174.769562	1	0	
+SIML	SIML	Simla Crescent Station	SimlaCresStn	-41.24679734	174.7843365	3	0	
+TALA	TALA	Talavera - Cable Car Station	Talavera-CableCarStn	-41.28479274	174.7712854	1	0	
+WELL	WELL	Wellington Station	WgtnStn	-41.27896857	174.7805617	1	0	

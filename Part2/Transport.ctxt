@@ -1,0 +1,24 @@
+#BlueJ class context
+comment0.target=Transport
+comment0.text=\n\ Constants\ and\ methods\ to\ represent\ Transportation\ data\n\ KPH\ is\ speed\ in\ kilometers\ per\ hour;\n\ MPS\ is\ speed\ in\ meters\ per\ second.\n
+comment1.params=lineID
+comment1.target=java.lang.String\ transpType(java.lang.String)
+comment2.params=lineId
+comment2.target=boolean\ isTrain(java.lang.String)
+comment2.text=\n\ Returns\ if\ the\ given\ lineId\ is\ a\ train\ line.\n
+comment3.params=lineId
+comment3.target=boolean\ isCableCar(java.lang.String)
+comment3.text=\n\ Returns\ if\ the\ given\ lineId\ is\ a\ cable\ car\ line.\n
+comment4.params=lineID
+comment4.target=boolean\ isFerry(java.lang.String)
+comment4.text=\n\ Returns\ if\ the\ given\ lineId\ is\ a\ ferry\ line.\n
+comment5.params=lineID
+comment5.target=boolean\ isWalking(java.lang.String)
+comment5.text=\n\ Returns\ if\ the\ given\ lineId\ is\ a\ walking\ connection.\n
+comment6.params=lineID
+comment6.target=boolean\ isTransfer(java.lang.String)
+comment6.text=\n\ Returns\ if\ the\ given\ lineId\ is\ a\ transfer\ connection.\n
+comment7.params=lineID
+comment7.target=double\ getSpeedMPS(java.lang.String)
+comment7.text=\n\ Return\ get\ speed\ (in\ meters\ per\ second)\ based\ on\ transportation\ type\n
+numComments=8

@@ -1,0 +1,12 @@
+only has some routes:
+ bus: 1, 2, 13, 14, 18, 21, 22, 37,
+ train: MEL, HVL, JVL,
+ ferry: WHF
+ cable car: CCL
+
+bus routes are cut-off north of Johnsonville station and south of Courtenay Place.
+train routes are cut off north of Ngauranga
+Ferry cut off past Somes Island
+
+Bus routes 1 and 37 are higher speed than the other bus routes.
+Train route HVL is faster than MEL

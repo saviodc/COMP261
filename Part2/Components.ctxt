@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Components
+comment1.params=graph
+comment1.target=java.util.Map\ findComponents(Graph)
+comment2.params=s\ l\ v
+comment2.target=void\ forwardVisit(Stop,\ java.util.List,\ java.util.Set)
+comment3.params=s\ num\ m
+comment3.target=void\ backwardVisit(Stop,\ int,\ java.util.Map)
+numComments=4

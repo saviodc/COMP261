@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=Line
+comment0.text=\n\ Structure\ for\ holding\ information\ about\ a\ bus/train/ferry/cablecar\ line\n
+comment1.params=lineId
+comment1.target=Line(java.lang.String)
+comment2.params=stop\ time
+comment2.target=void\ addStop(Stop,\ int)
+comment2.text=\n\ Add\ a\ stop\ to\ the\ end\ of\ the\ current\ line\n\ @param\ stopId\ the\ 4/5\ digit\ stop\ id\n\ @param\ time\ \ the\ time\ from\ the\ start\ of\ the\ line\ to\ the\ current\ stop\n
+comment3.params=
+comment3.target=java.lang.String\ getId()
+comment4.params=
+comment4.target=java.lang.String\ getType()
+comment5.params=
+comment5.target=java.lang.String\ toString()
+comment6.params=
+comment6.target=java.util.List\ getStops()
+comment6.text=\n\ Return\ the\ stops\ for\ each\ stop\ in\ the\ line.\n
+comment7.params=
+comment7.target=java.util.List\ getTimes()
+comment7.text=\n\ Return\ the\ times\ for\ each\ stop\ in\ the\ line.\n\ @return\ the\ list\ of\ times\ in\ seconds\n
+numComments=8

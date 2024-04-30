@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.target=Edge
+comment0.text=\n\ A\ directed\ edge\ in\ the\ graph,\ with\ associated\ data.\n\ fromStop\ and\ toStop\ are\ the\ stops\ at\ the\ beginning\ and\ end\ of\ the\ edge\n\ transpType\ is\ a\ String\ (as\ defined\ in\ the\ Transport\ class)\ specifying\ the\ type\ of\ edge\n\ line\ is\ the\ line\ that\ this\ edge\ is\ part\ of\ (null\ if\ it\ is\ a\ WALKING\ edge)\n\ distance\ is\ the\ distance\ along\ the\ edge.\n\n\ This\ could\ almost\ be\ a\ record\ class,\ but\ making\ the\ toString()\ efficient\ requires\n\ \ caching\ the\ string\ in\ a\ field\ that\ is\ not\ a\ parameter\ of\ the\ constructor.\n
+comment1.params=fromStop\ toStop\ transpType\ line\ distance
+comment1.target=Edge(Stop,\ Stop,\ java.lang.String,\ Line,\ double)
+comment2.params=
+comment2.target=Stop\ fromStop()
+comment3.params=
+comment3.target=Stop\ toStop()
+comment4.params=
+comment4.target=java.lang.String\ transpType()
+comment5.params=
+comment5.target=Line\ line()
+comment6.params=
+comment6.target=double\ distance()
+comment7.params=
+comment7.target=java.lang.String\ toString()
+numComments=8

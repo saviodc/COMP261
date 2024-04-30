@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=SearchQueueItem
+comment0.text=\n\ AStar\ search\ uses\ a\ priority\ queue\ of\ partial\ paths\n\ that\ the\ search\ is\ building.\n\ Each\ partial\ path\ needs\ several\ pieces\ of\ information\n\ to\ specify\ the\ path\ to\ that\ point,\ its\ cost\ so\ far,\ and\n\ its\ estimated\ total\ cost\n
+comment1.params=s\ edge\ lengthTo\ heuristic
+comment1.target=SearchQueueItem(Stop,\ Edge,\ double,\ double)
+comment2.params=
+comment2.target=Stop\ stop()
+comment3.params=
+comment3.target=Edge\ edge()
+comment4.params=
+comment4.target=double\ heuristic()
+comment5.params=
+comment5.target=double\ lengthTo()
+comment6.params=other
+comment6.target=int\ compareTo(SearchQueueItem)
+numComments=7
